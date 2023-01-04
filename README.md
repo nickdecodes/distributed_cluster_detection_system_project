@@ -1,2 +1,2 @@
-# distributed_cluster_detection_system_project
-distributed_cluster_detection_system_project
+# distributed-cluster-detection-system-project
+distributed-cluster-detection-system-project
